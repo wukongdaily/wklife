@@ -6,6 +6,9 @@
 
 [ChatGPT Plus | Netflix | Disney+ | Spotify | HBO |](https://naifei.pro/m/?rid=1p5c6/)
 
+# 悟空的动态
+https://t.me/daily5kong
+
 # 个人博客
 https://wkdaily.cpolar.top/ <br>
 https://wkdaily.cpolar.cn/
