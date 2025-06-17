@@ -17,4 +17,20 @@
 - 盒子助手docker版 离线包
 [国内下载地址(x86-64)](https://slink.ltd/https://github.com/wukongdaily/DockerTarBuilder/releases/download/DockerTarBuilder-AMD64/wukongdaily_box-amd64.tar.gz)
 
-## BV1gCTYzmEnA|TcwQHtVOVXA
+## 威联通NAS使用盒子助手docker版
+```
+version: '3.8'
+
+services:
+  tvhelper:
+    image: wukongdaily/box:latest
+    container_name: tvhelper
+    restart: unless-stopped
+    ports:
+      - "10022:22"
+      - "10080:80"
+    volumes:
+      - /share/Public/xapks:/data:ro
+    environment:
+      - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/android-sdk/platform-tools
+```
