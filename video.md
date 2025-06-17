@@ -1,4 +1,4 @@
-## 往期视频资源 你可以根据视频id搜索
+## 你可以根据视频id搜索
  [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1J4J3zAEDz) [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/WhtPERoU7PY)
  
  举例来说 https://www.bilibili.com/video/BV1gCTYzmEnA
@@ -14,4 +14,7 @@
 ## BV1gCTYzmEnA|TcwQHtVOVXA
 该视频主要是讲如何利用群晖NAS 给索尼电视安装xapk格式的流媒体软件。
 <br>视频里提到的docker镜像名称:`wukongdaily/box`
+- 盒子助手docker版 离线包
+[国内下载地址(x86-64)](https://slink.ltd/https://github.com/wukongdaily/DockerTarBuilder/releases/download/DockerTarBuilder-AMD64/wukongdaily_box-amd64.tar.gz)
 
+## BV1gCTYzmEnA|TcwQHtVOVXA
