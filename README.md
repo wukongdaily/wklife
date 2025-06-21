@@ -11,14 +11,16 @@ https://t.me/daily5kong
 
 ## 个人博客
 【地址一】 https://wkdaily.cpolar.cn/ <br>
-【地址二】 https://wkdaily.cpolar.top/
+【地址二】 https://wkdaily.cpolar.top/<br>
+【特别说明】脚本的仓库每个月都会挂几次 遇到cpolar.top访问失败或脚本下载不到的时候 可以过几个小时再试试 不行就隔天。
 ## 商单合作
 `didiboy0702@gmail.com` VX：`wukongdaily01`
 
 ## 悟空百科
 https://didiboy0702.gitbook.io/wukongdaily/
 ## 盒子助手导航站
-https://tvhelper.cpolar.top/
+https://tvhelper.cpolar.top/<br>
+遇到cpolar.top访问失败的时候 可以过几个小时再试试 不行就隔天。
 
 ## 盒子助手docker版 离线包
 ### [国内下载地址(x86-64)](https://slink.ltd/https://github.com/wukongdaily/DockerTarBuilder/releases/download/DockerTarBuilder-AMD64/wukongdaily_box-amd64.tar.gz)
