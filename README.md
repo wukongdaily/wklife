@@ -10,8 +10,8 @@
 https://t.me/daily5kong
 
 ## 个人博客
-https://wkdaily.cpolar.top/ <br>
-https://wkdaily.cpolar.cn/
+【地址一】 https://wkdaily.cpolar.cn/ <br>
+【地址二】 https://wkdaily.cpolar.top/
 ## 商单合作
 `didiboy0702@gmail.com` VX：`wukongdaily01`
 
