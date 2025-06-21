@@ -23,3 +23,10 @@ https://tvhelper.cpolar.cn/<br>
 
 ## 盒子助手docker版 离线包
 ### [国内下载地址(x86-64)](https://slink.ltd/https://github.com/wukongdaily/DockerTarBuilder/releases/download/DockerTarBuilder-AMD64/wukongdaily_box-amd64.tar.gz)
+
+## 电视订阅助手
+https://t.me/subshelper
+
+- 从蓝奏云下载： https://wwyc.lanzoum.com/iyvDk0w6axbi
+- 从Downloader 的App中输入 6位数字（714656） 即可下载
+- 从Emotn Store 的分享码 下载，输入6位数字（639502）即可下载
