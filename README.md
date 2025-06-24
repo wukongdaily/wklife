@@ -20,7 +20,7 @@ https://t.me/daily5kong
 
 ## [盒子助手导航站](https://tvhelper.cpolar.cn/)
 
-## [盒子助手docker版 离线包](https://slink.ltd/https://github.com/wukongdaily/DockerTarBuilder/releases/download/DockerTarBuilder-AMD64/wukongdaily_box-amd64.tar.gz)
+## [盒子助手docker版 离线包](https://gh.monlor.com/https://github.com/wukongdaily/DockerTarBuilder/releases/download/DockerTarBuilder-AMD64/wukongdaily_box-amd64.tar.gz)
 
 ## 电视订阅助手
 https://t.me/subshelper
