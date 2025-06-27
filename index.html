@@ -14,6 +14,30 @@
       name: '悟空资源站',
       repo: '',
 
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [], // or 'auto'
+        placeholder: '搜索...',
+
+        // Localization
+        placeholder: {
+          '/': '搜索...',
+        },
+
+        noData: '找不到结果',
+
+        // Localization
+        noData: {
+          '/': '找不到结果',
+        },
+
+        // Headline depth, 1 - 6
+        depth: 1,
+
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+      },
+
       // 自动跳转的首页内容（默认就是 README.md）
       loadSidebar: true,      // 启用侧边栏
       loadNavbar: true,       // 启用顶部导航栏
