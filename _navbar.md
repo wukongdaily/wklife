@@ -1,4 +1,6 @@
 * [主页](README.md)
+* [博客](https://wkdaily.cpolar.cn)
+* [小红书](https://www.xiaohongshu.com/user/profile/5940f9b982ec390ea02d23ef)
 * [GitHub](https://github.com/wukongdaily)
 * [B站](https://space.bilibili.com/250915741)
 * [Youtube](https://www.youtube.com/@wukongdaily)
