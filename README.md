@@ -6,15 +6,17 @@
 
 [ChatGPT Plus | Netflix | Disney+ | Spotify | HBO |](https://naifei.pro/m/?rid=1p5c6/)
 
+## 70元大额优惠券 店铺名称：腾颂工控
+[70元淘宝优惠券——适用于酷睿i3-8130U、酷睿i5-8250U的软路由工控机](https://pages.tmall.com/wow/a/act/tmall/dailygroup/16355/16802/wupr?wh_pid=daily-465056&disableNav=YES&status_bar_transparent=true&sellerId=2678978036&activityId=edcba53136f44a008d9911ebd0fdb860&toolName=shopCoupon)
+
+[商品链接 此处有效期到7月底 ](https://e.tb.cn/h.hesrcIseyDXkVHU?tk=kfLpVDalvrIMF937)🔗 
+
 ## 悟空的动态
 https://t.me/daily5kong
 
 ## 个人博客
 【地址一】 https://wkdaily.cpolar.cn <br>
 【地址二】 https://wkdaily.cpolar.top
-
-## 商单合作
-`didiboy0702@gmail.com` VX：`wukongdaily01`
 
 ## [悟空百科](https://didiboy0702.gitbook.io/wukongdaily/)
 ## [盒子助手导航站](https://tvhelper.cpolar.cn/)
