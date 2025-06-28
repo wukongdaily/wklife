@@ -11,8 +11,8 @@
 
 [商品链接 此处有效期到7月底 ](https://e.tb.cn/h.hesrcIseyDXkVHU?tk=kfLpVDalvrIMF937)🔗 
 
-## 悟空的动态
-https://t.me/daily5kong
+## 店铺
+🛍️ 个人微店：https://k.koudai.com/EVSDREzj
 
 ## 个人博客
 【地址一】 https://wkdaily.cpolar.cn <br>
