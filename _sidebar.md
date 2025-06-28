@@ -9,4 +9,4 @@
 * [自制脚本](script.md)
 * [悟空博客](https://wkdaily.cpolar.cn)
 * [悟空百科](https://didiboy0702.gitbook.io/wukongdaily)
-
+* [B站UP好用斋](https://haoyongzhai.netlify.app)
