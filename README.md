@@ -12,11 +12,12 @@
 [商品链接 此处有效期到7月底 ](https://e.tb.cn/h.hesrcIseyDXkVHU?tk=kfLpVDalvrIMF937)🔗 
 
 ## 店铺
+上面淘宝的，是帮别的老板带货 不是本人店铺哦。本人店铺只有一个小小的微店。感兴趣的 可以顺便关注一下。<br>
 🛍️ 个人微店：https://k.koudai.com/EVSDREzj
 
 ## 个人博客
-【地址一】 https://wkdaily.cpolar.cn <br>
-【地址二】 https://wkdaily.cpolar.top
+https://wkdaily.cpolar.cn <br>
+
 
 ## [悟空百科](https://didiboy0702.gitbook.io/wukongdaily/)
 ## [盒子助手导航站](https://tvhelper.cpolar.cn/)
