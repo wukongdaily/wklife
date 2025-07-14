@@ -16,7 +16,9 @@
 🛍️ 个人微店：https://k.koudai.com/EVSDREzj
 
 ## 个人博客
+https://wkdaily.cpolar.top <br>
 https://wkdaily.cpolar.cn <br>
+>>> 可能不稳 间歇性出现404 多等会 或者稍后访问就好了 
 
 
 ## [悟空百科](https://didiboy0702.gitbook.io/wukongdaily/)
