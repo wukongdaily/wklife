@@ -6,13 +6,8 @@
 
 [ChatGPT Plus | Netflix | Disney+ | Spotify | HBO |](https://naifei.pro/m/?rid=1p5c6/)
 
-## 70元大额优惠券 店铺名称：腾颂工控
-[70元淘宝优惠券——适用于酷睿i3-8130U、酷睿i5-8250U的软路由工控机](https://pages.tmall.com/wow/a/act/tmall/dailygroup/16355/16802/wupr?wh_pid=daily-465056&disableNav=YES&status_bar_transparent=true&sellerId=2678978036&activityId=edcba53136f44a008d9911ebd0fdb860&toolName=shopCoupon)
-
-[商品链接 此处有效期到7月底 ](https://e.tb.cn/h.hesrcIseyDXkVHU?tk=kfLpVDalvrIMF937)🔗 
-
 ## 店铺
-上面淘宝的，是帮别的老板带货 不是本人店铺哦。本人店铺只有一个小小的微店。感兴趣的 可以顺便关注一下。<br>
+本人店铺只有一个小小的微店。感兴趣的 可以顺便关注一下。<br>
 🛍️ 个人微店：https://k.koudai.com/EVSDREzj
 
 ## 个人博客
