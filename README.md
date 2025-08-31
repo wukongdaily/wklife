@@ -11,7 +11,7 @@
 🛍️ 个人微店：https://k.koudai.com/EVSDREzj <br>
 🛍️ 最新上架产品：[N3700 双2.5G+双千兆（四口intel网卡） 迷你工控电脑内置散热风扇 准系统350元](https://weidian.com/item.html?itemID=7262379424) <br>
 系统可用于安装（iStoreOS、飞牛、windows10、PVE、ESXI等）<br>
-<img src="https://wklife.netlify.app/res/g3s.webp" width="70%">
+<img src="https://wklife.netlify.app/res/g3s.webp" width="40%">
 
 ## 个人博客
 https://wkdaily.cpolar.top <br>
