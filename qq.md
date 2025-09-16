@@ -6,10 +6,9 @@
 
 ----
 ### 微信
-<img src="https://img.icons8.com/color/48/weixing.png" alt="WeChat" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/weixing.png" alt="WeChat" width="50" height="50"/> <br>
+<img src="https://wklife.netlify.app/res/1757990647669.jpg" alt="WeChat" width="200"/>
 
-
-### `wukongdaily01`
 > 邮件：didiboy0702@gmail.com
 
 # 我的知识干货动态 (公开)
