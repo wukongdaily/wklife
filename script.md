@@ -8,6 +8,11 @@
 ```bash
 sh -c "$(curl -fsSL https://mt3000.netlify.app/gl-inet.sh)"
 ```
+# 新增 GL-iNet MT3000/6000/2500 -op24 ⬇️ 直达<br>
+
+```bash
+sh -c "$(curl -fsSL https://mt3000.netlify.app/gl-inet-op24.sh)"
+```
 
 # GL-iNet BE3600 脚本 ⬇️ 直达<br>
 > https://github.com/wukongdaily/be3600/
