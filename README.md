@@ -1,10 +1,13 @@
 ## 从这里开始
  [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1J4J3zAEDz) [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/WhtPERoU7PY)
 
+## 原生设置（适用于国内盒子）
+https://tvhelper.cpolar.cn <br>
+在上述网页最底部
 
-==============【快捷会员合租：戳下边】================
+==============【快捷会员合租AI：戳下边】================
 
-[ChatGPT Plus | Netflix | Disney+ | Spotify | HBO |](https://naifei.pro/m/?rid=1p5c6/)
+[Grok | Netflix | GPT-5 | Spotify | HBO |](https://hezu.pro/m/?rid=1p5c6/)
 
 ## 店铺
 本人店铺只有一个小小的微店。感兴趣的 可以顺便关注一下。<br>
