@@ -2,7 +2,7 @@
  [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1J4J3zAEDz) [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/WhtPERoU7PY)  
 
 ## 双11限时特惠 70元优惠券（腾颂i3、i5工控软路由）
-<img src="https://wklife.netlify.app/res/70.jpg" width="60%"> <br>
+<img src="https://wklife.netlify.app/res/70.jpg" width="30%"> <br>
 [ 戳这里直达领取优惠券 ](https://pages.tmall.com/wow/a/act/tmall/dailygroup/16355/16802/wupr?wh_pid=daily-465056&disableNav=YES&status_bar_transparent=true&sellerId=2678978036&activityId=bc4448a20cfa4c0ea15a8945a64ebea4&toolName=itemCoupon)
 <br>
 视频 https://bilibili.com/video/BV1s2KnzPEgp/
