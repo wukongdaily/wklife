@@ -3,9 +3,11 @@
 
 ## 双11限时特惠 70元优惠券（腾颂i3、i5工控软路由）
 <img src="https://wklife.netlify.app/res/70.jpg" width="30%"> <br>
-[ 戳这里直达领取优惠券 ](https://pages.tmall.com/wow/a/act/tmall/dailygroup/16355/16802/wupr?wh_pid=daily-465056&disableNav=YES&status_bar_transparent=true&sellerId=2678978036&activityId=bc4448a20cfa4c0ea15a8945a64ebea4&toolName=itemCoupon)
+[ 戳这里直达领取优惠券 ](https://pages.tmall.com/wow/a/act/tmall/dailygroup/16355/16802/wupr?wh_pid=daily-465056&disableNav=YES&status_bar_transparent=true&sellerId=2678978036&activityId=bc4448a20cfa4c0ea15a8945a64ebea4&toolName=itemCoupon) <br>
+【商品链接】https://item.taobao.com/item.htm?id=934467489854
 <br>
-视频 https://bilibili.com/video/BV1s2KnzPEgp/
+- B站视频 <br>
+https://bilibili.com/video/BV1s2KnzPEgp/
 
 ## 原生设置（适用于国内盒子）
 https://tvhelper.cpolar.cn <br>
