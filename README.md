@@ -1,14 +1,6 @@
 ## 从这里开始
  [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1J4J3zAEDz) [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/WhtPERoU7PY)  
 
-## 双11限时特惠 70元优惠券（腾颂i3、i5工控软路由）
-<img src="https://wklife.netlify.app/res/70.jpg" width="30%"> <br>
-[ 戳这里直达领取优惠券 ](https://pages.tmall.com/wow/a/act/tmall/dailygroup/16355/16802/wupr?wh_pid=daily-465056&disableNav=YES&status_bar_transparent=true&sellerId=2678978036&activityId=bc4448a20cfa4c0ea15a8945a64ebea4&toolName=itemCoupon) <br>
-【商品链接】https://item.taobao.com/item.htm?id=934467489854
-<br>
-- B站视频 <br>
-https://bilibili.com/video/BV1s2KnzPEgp/
-
 ## 原生设置（适用于国内盒子）
 https://tvhelper.cpolar.cn <br>
 在上述网页最底部
@@ -17,7 +9,7 @@ https://tvhelper.cpolar.cn <br>
 
 [Grok | Netflix | GPT-5 | Spotify | HBO |](https://hezu.pro/m/?rid=1p5c6/)
 
-## 自己店铺
+## 悟空的日常杂货铺
 本人店铺只有一个小小的微店。感兴趣的 可以顺便关注一下。<br>
 🛍️ 个人微店：https://k.koudai.com/EVSDREzj <br>
 🛍️ 最新上架产品：[N3700 双2.5G+双千兆（四口intel网卡） 迷你工控电脑内置散热风扇 准系统350元](https://weidian.com/item.html?itemID=7262379424) <br>
