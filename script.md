@@ -2,6 +2,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/MT2500A-0?style=flat-square&logoColor=8A2BE2&label=%E5%9E%8B%E5%8F%B7&labelColor=000000&color=D94600"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/MT3000-0?style=flat-square&logoColor=8A2BE2&label=%E5%9E%8B%E5%8F%B7&labelColor=000000&color=2828FF"> <br>
 
+# 如果你是非中国大陆用户 可以用下面的脚本地址
 # GL-iNet MT3000/6000/2500 备用脚本 ⬇️ 直达<br>
 > https://github.com/wukongdaily/gl-inet-onescript
 
@@ -19,6 +20,11 @@ sh -c "$(curl -fsSL https://mt3000.netlify.app/gl-inet-op24.sh)"
 
 ```bash
 sh -c "$(curl -fsSL https://mt3000.netlify.app/be3600.sh)"
+```
+
+# GL-iNet BE6500 脚本 ⬇️ 直达<br>
+```bash
+sh -c "$(curl -fsSL https://mt3000.netlify.app/be6500.sh)"
 ```
 
 # 一键搭建NginX 静态文件服务器（docker）
