@@ -12,5 +12,4 @@
 * [常见问题](faq.md)
 * [悟空博客](https://wkdaily.cpolar.cn)
 * [悟空百科](https://didiboy0702.gitbook.io/wukongdaily)
-* [常用VPS服务器](https://github.com/wukongdaily/HelloWorld)
 * [B站UP好用斋](https://haoyongzhai.netlify.app)
