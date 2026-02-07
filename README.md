@@ -5,10 +5,6 @@
 https://tvhelper.cpolar.cn <br>
 在上述网页最底部
 
-==============【快捷会员合租AI：戳下边】================
-
-[Grok | Netflix | GPT-5 | Spotify | HBO |](https://hezu.pro/m/?rid=1p5c6/)
-
 ## 悟空的日常杂货铺
 本人店铺只有一个小小的微店。感兴趣的 可以顺便关注一下。<br>
 🛍️ 个人微店：https://k.koudai.com/EVSDREzj <br>

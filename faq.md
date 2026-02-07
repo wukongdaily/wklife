@@ -2,7 +2,7 @@
 
 ## ❓群主的网盘地址是？
 
-[**谷歌网盘地址**](https://wkdaily.cpolar.top/pan)
+[**谷歌网盘地址**](https://wkdaily.cpolar.cn/pan)
 
 ## ❓Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
 

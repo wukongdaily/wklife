@@ -1,8 +1,6 @@
 * [首页](README.md)
 * [付费咨询](ask.md)
 * [自制脚本](script.md)
-* [插件下载](https://github.com/wkccd/CloudRunFilesBuilder/releases)
-* [固件下载](https://wkdaily.cpolar.cn/gujian)
 * [自制docker](docker.md)
 * [赞助作者](donate.md)
 * [群号获取](qq.md)
