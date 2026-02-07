@@ -2,6 +2,7 @@
 * [付费咨询](ask.md)
 * [自制脚本](script.md)
 * [自制docker](docker.md)
+* [周边软件](https://tvhelper.cpolar.cn)
 * [赞助作者](donate.md)
 * [群号获取](qq.md)
 * [商业合作](bussiness.md)
