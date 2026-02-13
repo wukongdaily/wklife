@@ -1,5 +1,8 @@
 ## 从这里开始
- [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1J4J3zAEDz) [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/WhtPERoU7PY)  
+[![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/@wukongdaily)
+[![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/250915741)
+[![xiaohongshu](https://img.shields.io/badge/小红书-FF2442?logo=xiaohongshu&logoColor=fff&labelColor=FF2442)](https://www.xiaohongshu.com/user/profile/5940f9b982ec390ea02d23ef)
+[![tiktok](https://img.shields.io/badge/抖音-000000?logo=tiktok&logoColor=fff&labelColor=black)](https://www.douyin.com/user/MS4wLjABAAAAte1MKVdw9wFvosRL1m6jRA-zvV1PAQLR6zOnuK03h28)
 
 ## 原生设置（适用于国内盒子）
 https://tvhelper.cpolar.cn <br>
